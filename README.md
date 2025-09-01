@@ -10,7 +10,7 @@
 
 ## 🚀 Tech Stack
 
-<div style="display: flex; justify-content:center;">
+<div style="display: flex; justify-content:center;" align="center">
 <div style="display: flex; gap:8px;">
   <div>
   
@@ -59,7 +59,7 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content:center;">
+<div style="display: flex; justify-content:center;" align="center">
 <div style="display: flex; gap:8px">
 <div>
 
