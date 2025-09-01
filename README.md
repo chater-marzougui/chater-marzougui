@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Tech Stack  
-<div style="flex">
+<div style="display:flex;flex-direction:row;flew-wrap:wrap;justify-content:canter;" align="center">
   
   ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)  
   ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
@@ -26,15 +26,22 @@
 ---
 
 ## 📊 GitHub Stats  
-![Chater's GitHub stats](https://github-readme-stats.vercel.app/api?username=chater-mrz&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chater-mrz&layout=compact&theme=radical)  
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;" align="center">
+  
+  ![Chater's GitHub stats](https://github-readme-stats.vercel.app/api?username=chater-mrz&show_icons=true&theme=radical)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chater-mrz&layout=compact&theme=radical)  
+</div>
+
 
 ---
 
 ## 📫 Let’s Connect  
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;" align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chater-marzougui-342125299/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chater.mrezgui2002@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=web&logoColor=white)](https://chater-marzougui.me/Portfolio/)  
+</div>
 
 ---
 
