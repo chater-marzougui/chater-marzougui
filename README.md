@@ -31,6 +31,16 @@ A glimpse into the tools and technologies I work with:
 
 ---
 
+## 🌐 Live Projects
+
+| Project | Description |
+|---|---|
+| [Tekthib](https://chater-marzougui.me/Tekthib/) | Tunisian online bluffing card game (تكذيب) — create rooms and play with friends |
+| [Skill Issue Check](https://chater-marzougui.me/Skill-Issue-Check/) | Quiz app for SupCom courses — generate questions with Gemini, import the JSON, and run a quiz session |
+| [ClusterRoute](https://chater-marzougui.me/ClusterRoute/) | Privacy-first web app that builds the shortest multi-stop errand route near you |
+| [Serial Data Collector](https://chater-marzougui.me/serial-data-collector/) | Browser-based serial data acquisition framework for collecting, labeling, and exporting ML datasets |
+| [IndabaX Tunisia 2024](https://www.indabaxtunisia.com/2024/) | Official website for IndabaX Tunisia 2024 |
+
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content:center; flex-wrap: wrap; gap:8px;" align="center">
